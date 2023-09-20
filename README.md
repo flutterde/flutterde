@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flutterde&label=Profile%20views&color=0e75b6&style=flat" alt="flutterde" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flutterde" alt="flutterde" style="padding: 10px"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flutterde" alt="flutterde" style="margin: 10px;"/></a> </p>
 
 - 🔭 I’m currently working on [Old But Gold](https://play.google.com/store/apps/details?id=com.flutterdeapps.oldbutgold)
 
