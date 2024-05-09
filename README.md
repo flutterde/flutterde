@@ -1,3 +1,4 @@
+<p align="center"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Hello all" /></p>
 <h1 align="center">Hi 👋, I'm flutterde</h1>
 <h3 align="center">A Mobile and Web developer</h3>
 
